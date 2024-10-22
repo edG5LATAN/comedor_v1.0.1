@@ -1,0 +1,23 @@
+.header_contenedor{
+  min-height: 300px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://i.pinimg.com/originals/b3/d5/13/b3d513f3dde488b8224df2a0588b3c9e.jpg');
+  background-repeat: no-repeat;
+  background-size:cover ;
+  border-radius:0  0 15px  15px;
+}
+.header_glases{
+  width: 70%;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.63);
+  backdrop-filter: blur(10px);
+}
