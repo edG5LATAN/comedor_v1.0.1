@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./component/home/Home";
@@ -8,7 +7,6 @@ import Bebidas from "./component/bebidas/Bebidas";
 import Postre from "./component/postres/Postre";
 
 function App() {
-  const [count, setCount] = useState(0);
 
   return (
     <>

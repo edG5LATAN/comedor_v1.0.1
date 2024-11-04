@@ -20,5 +20,5 @@
 
 .scroll-item:hover {
   transform: scale(1.02); 
-  cursor: pointer;
+  cursor: url("/public/img/plato.png"),alias;
 }
