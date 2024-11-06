@@ -5,6 +5,8 @@
 Todo esto creado en react y Bootstrap con su configuracion responsive 
 
 
+![Logo](https://i.pinimg.com/originals/f7/1f/eb/f71feb2181b9c5b123afd89efa0ceb06.png)
+
 
 ## Documentation
 
